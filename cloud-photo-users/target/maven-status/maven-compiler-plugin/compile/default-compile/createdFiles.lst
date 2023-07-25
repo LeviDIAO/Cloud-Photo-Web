@@ -1,0 +1,10 @@
+com\cloud\photo\users\CloudPhotoUsersApplication.class
+com\cloud\photo\users\common\CommonEnum.class
+com\cloud\photo\users\common\BaseErrorInfo.class
+com\cloud\photo\users\entity\User.class
+com\cloud\photo\users\service\impl\UserServiceImpl.class
+com\cloud\photo\users\CodeGenerator.class
+com\cloud\photo\users\common\ResultBody.class
+com\cloud\photo\users\controller\UserController.class
+com\cloud\photo\users\service\UserService.class
+com\cloud\photo\users\mapper\UserMapper.class

@@ -1,0 +1,17 @@
+com\cloud\photo\image\utils\VipsUtil.class
+com\cloud\photo\image\mapper\FileResizeIconMapper.class
+com\cloud\photo\image\utils\DownloadFileUtil.class
+com\cloud\photo\image\controller\MediaInfoController.class
+com\cloud\photo\image\entity\FileResizeIcon.class
+com\cloud\photo\image\utils\PicUtils.class
+com\cloud\photo\image\CloudPhotoImageApplication.class
+com\cloud\photo\image\service\IMediaInfoService.class
+com\cloud\photo\image\consumer\ImageConsumer.class
+com\cloud\photo\image\service\impl\FileResizeIconServiceImpl.class
+com\cloud\photo\image\service\IFileResizeIconService.class
+com\cloud\photo\image\mapper\MediaInfoMapper.class
+com\cloud\photo\image\utils\UploadFileUtil.class
+com\cloud\photo\image\entity\MediaInfo.class
+com\cloud\photo\image\CodeGenerator.class
+com\cloud\photo\image\controller\FileResizeIconController.class
+com\cloud\photo\image\service\impl\MediaInfoServiceImpl.class
